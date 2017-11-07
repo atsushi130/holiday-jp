@@ -4,7 +4,7 @@
 ## dependencies
 ```toml
 [dependencies]
-holiday-jp = "0.1.0"
+holiday_jp = "0.1.0"
 ```
 
 ## Usage
