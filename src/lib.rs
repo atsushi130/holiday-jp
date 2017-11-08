@@ -11,5 +11,6 @@ extern crate rustc_serialize;
 extern crate chrono;
 
 pub mod holiday_jp;
-pub use holiday_jp::HolidayService;
 mod https_client;
+
+pub use holiday_jp::{HolidayService, DateTimeToString};

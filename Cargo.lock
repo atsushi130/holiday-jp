@@ -1,6 +1,6 @@
 [root]
 name = "holiday_jp"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "chrono 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "hyper 0.10.13 (registry+https://github.com/rust-lang/crates.io-index)",

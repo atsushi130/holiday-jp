@@ -11,3 +11,4 @@ pub use self::holiday_service::HolidayService;
 mod holiday;
 
 mod date_time_extension;
+pub use self::date_time_extension::DateTimeToString;
