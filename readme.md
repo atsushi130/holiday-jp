@@ -1,7 +1,7 @@
 # holiday-jp
 [![MIT / Apache2.0 dual licensed](https://img.shields.io/badge/dual%20license-MIT%20/%20Apache%202.0-blue.svg)](./license-mit.md)
 [![crates.io](https://img.shields.io/crates/v/holiday_jp.svg)](https://crates.io/crates/holiday_jp)
-[![Document](https://img.shields.io/badge/Cryptor-Document-3B5998.svg)](https://docs.rs/holiday_jp/0.1.2/holiday_jp/)
+[![Document](https://img.shields.io/badge/holiday_jp-Document-3B5998.svg)](https://docs.rs/holiday_jp/0.1.2/holiday_jp/)
 
 ## dependencies
 ```toml
